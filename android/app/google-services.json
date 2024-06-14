@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "827942389017",
+    "project_id": "mis-clientes---produccion-2",
+    "storage_bucket": "mis-clientes---produccion-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827942389017:android:7c545fbfe2af12be6bf188",
+        "android_client_info": {
+          "package_name": "ar.com.agroinsumosarroyito"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVURGsIQtYkh9ydhGcKnUY7z1YkMh9Bds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827942389017:android:f6733ce1c55091f46bf188",
+        "android_client_info": {
+          "package_name": "ar.com.monteverde"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVURGsIQtYkh9ydhGcKnUY7z1YkMh9Bds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827942389017:android:8ac8dcb1197a36c86bf188",
+        "android_client_info": {
+          "package_name": "ar.com.nexobyte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVURGsIQtYkh9ydhGcKnUY7z1YkMh9Bds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827942389017:android:2be26264ac8a825e6bf188",
+        "android_client_info": {
+          "package_name": "ar.com.trisoil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVURGsIQtYkh9ydhGcKnUY7z1YkMh9Bds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
