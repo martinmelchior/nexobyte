@@ -29,7 +29,7 @@ class Constants {
   /* -------------------------------------------------------------------------------*/
   /* -ACA-          MODIFICAR CUANDO PASE DE TESTING A PRODUCCION                   */
   /* -------------------------------------------------------------------------------*/
-  static String urlBase = "http://200.114.108.84:8090/"; //!-- PRODUCCION
+  static String urlBase = "http://138.121.126.7:8091/"; //!-- PRODUCCION
   //static String urlBase = "http://peperina.ddns.net/MobileApiRest/"; //*-- TESTING
 
   static bool isTesting = false;
