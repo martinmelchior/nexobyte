@@ -43,7 +43,7 @@ class Constants {
 
   static String kLogoLogin = 'assets/img/logo_login.png';
   static String kLogoEmpresa = 'assets/img/nexoLogo.png';
-  static String kLogoEmpresaIcon = 'assets/img/logoEmpresaIcon.png';
+  static String kLogoEmpresaIcon = 'assets/img/logo_login.png';
   static String kLogoDrawer = 'assets/img/logo_drawer.png';
   static String kLogoWhatsapp = 'assets/img/logo-whatsapp.png';
   static String telWhatsapp = "0";

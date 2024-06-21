@@ -77,7 +77,7 @@ flutter_native_splash:
   image: "assets/img/splash.png"
   color: "#E6E6E6"
   android_12:
-    image: "assets/img/splash.png"
+    image: "assets/img/splash_12.png"
     color: "#E6E6E6"
 
 # The following section is specific to Flutter packages.
